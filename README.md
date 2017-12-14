@@ -1,5 +1,5 @@
 
-## Tutorial to deploy using uWSGI + nginx
+## Tutorial to deploy django using uWSGI + nginx
 
 ### Principle
 
